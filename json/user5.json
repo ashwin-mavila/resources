@@ -1,0 +1,30 @@
+{
+    "id": 5,
+    "uid": "user5",
+    "username": "stephenie",
+    "password": "pass123",
+    "name": "Stephenie Gaylord",
+    "avatar": "https://robohash.org/quibusdamaliquamaut.png?size=300x300&set=set1",
+    "email": "stephlord@email.com",
+    "gender": "O",
+    "date_of_birth": "1964-02-23",
+    "points": 2500,
+    "address": {
+        "street": "Kiehn Roads, 437 Josef Lake",
+        "city": "Port Burton",
+        "state": "Vermont",
+        "country": "United States",
+        "zip": "0576",
+        "geo": {
+            "lat": -74.7740694442007,
+            "lng": -2.7671543839490482
+        }
+    },
+    "subscription": {
+        "plan": "essential",
+        "status": "pending",
+        "payment_method": "cash",
+        "term": "full",
+        "amount": 120.0
+    }
+}

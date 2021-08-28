@@ -1,0 +1,30 @@
+{
+    "id": 3,
+    "uid": "user3",
+    "username": "carrie-kuhn",
+    "password": "pass123",
+    "name": "Carrie Kuhn",
+    "avatar": "https://robohash.org/aperiaminprovident.png?size=300x300&set=set1",
+    "email": "carriek@email.com",
+    "gender": "F",
+    "date_of_birth": "2001-08-15",
+    "points": 800,
+    "address": {
+        "street": "Marquardt Walk, 62722 Morar Turnpike",
+        "city": "Louistown",
+        "state": "Kansas",
+        "country": "United States",
+        "zip": "0576",
+        "geo": {
+            "lat": 18.773519466790745,
+            "lng": 177.59923535171276
+        }
+    },
+    "subscription": {
+        "plan": "platinum",
+        "status": "pending",
+        "payment_method": "cash",
+        "term": "advance",
+        "amount": 50.0
+    }
+}

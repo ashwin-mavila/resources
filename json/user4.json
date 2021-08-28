@@ -1,0 +1,30 @@
+{
+    "id": 4,
+    "uid": "user4",
+    "username": "deandra",
+    "password": "pass123",
+    "name": "Deandra Gusikowski",
+    "avatar": "https://robohash.org/distinctioporroperspiciatis.png?size=300x300&set=set1",
+    "email": "deandra01@email.biz",
+    "gender": "F",
+    "date_of_birth": "1979-11-08",
+    "points": 1800,
+    "address": {
+        "street": "O'Connell Summit, 6101 Lakeshia Cliff",
+        "city": "Port Dee",
+        "state": "Georgia",
+        "country": "United States",
+        "zip": "0576",
+        "geo": {
+            "lat": -79.33501198283182,
+            "lng": -118.96669833930613
+        }
+    },
+    "subscription": {
+        "plan": "business",
+        "status": "active",
+        "payment_method": "credit_card",
+        "term": "monthly",
+        "amount": 150.25
+    }
+}

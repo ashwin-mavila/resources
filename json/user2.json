@@ -1,0 +1,30 @@
+{
+    "id": 2,
+    "uid": "user2",
+    "username": "bob-kuhic",
+    "password": "pass123",
+    "name": "Bob Kuhic",
+    "avatar": "https://robohash.org/utexperspiciatis.png?size=300x300&set=set1",
+    "email": "bobk@email.com",
+    "gender": "M",
+    "date_of_birth": "1970-04-08",
+    "points": 1500,
+    "address": {
+        "street": "Zachariah Corners, 9734 Hammes Spring",
+        "city": "East Russelmouth",
+        "state": "Nebraska",
+        "country": "United States",
+        "zip": "95605",
+        "geo": {
+            "lat": -58.8108112928103,
+            "lng": -130.8410032045049
+        }
+    },
+    "subscription": {
+        "plan": "bronze",
+        "status": "blocked",
+        "payment_method": "neft",
+        "term": "advance",
+        "amount": 60.0
+    }
+}

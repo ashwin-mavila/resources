@@ -1,0 +1,30 @@
+{
+    "id": 1,
+    "uid": "user1",
+    "username": "alice-mayert",
+    "password": "pass123",
+    "name": "Alice Mayert",
+    "avatar": "https://robohash.org/quisquamsintsit.png?size=300x300&set=set1",
+    "email": "alice@email.com",
+    "gender": "F",
+    "date_of_birth": "1989-08-22",
+    "points": 1200,
+    "address": {
+        "street": "Turcotte Ford, 62039 Anderson Falls",
+        "city": "South Elnoraborough",
+        "state": "Arizona",
+        "country": "United States",
+        "zip": "60691",
+        "geo": {
+            "lat": -37.3159,
+            "lng": 81.1496
+        }
+    },
+    "subscription": {
+        "plan": "premium",
+        "status": "pending",
+        "payment_method": "bitcoin",
+        "term": "annual",
+        "amount": 100.50
+    }
+}
