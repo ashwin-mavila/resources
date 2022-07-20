@@ -1,0 +1,243 @@
+
+[
+    {
+        "id": 1,
+        "title": "The Boys",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_1_theboys.jpeg",
+        "year": 2019,
+        "date": "25-07-2019",
+        "rate": 8.5
+    },
+    {
+        "id": 2,
+        "title": "Kung Fu Panda",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_2_kungfupanda.jpeg",
+        "year": 2022,
+        "date": "14-07-2022",
+        "rate": 7.2
+    },
+    {
+        "id": 3,
+        "title": "The Walking Dead",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_3_walkingdead.jpeg",
+        "year": 2010,
+        "date": "31-10-2010",
+        "rate": 8.1
+    },
+    {
+        "id": 4,
+        "title": "Centauro",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_4_centauro.jpeg",
+        "year": 2022,
+        "date": "15-06-2022",
+        "rate": 6.4
+    },
+    {
+        "id": 5,
+        "title": "The Flash",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_5_theflash.jpeg",
+        "year": 2019,
+        "date": "07-10-2014",
+        "rate": 7.8
+    },
+    {
+        "id": 6,
+        "title": "Turning Red",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_6_turningred.jpeg",
+        "year": 2022,
+        "date": "10-03-2022",
+        "rate": 7.5
+    },
+    {
+        "id": 7,
+        "title": "Collision",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_7_collision.jpeg",
+        "year": 2022,
+        "date": "16-06-2022",
+        "rate": 5.8
+    },
+    {
+        "id": 8,
+        "title": "Spiderhead",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_8_spiderhead.jpeg",
+        "year": 2022,
+        "date": "15-06-2022",
+        "rate": 5.8
+    },
+    {
+        "id": 9,
+        "title": "Zombies 3",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_9_zombies3.jpeg",
+        "year": 2022,
+        "date": "09-07-2022",
+        "rate": 8.3
+    },
+    {
+        "id": 10,
+        "title": "Vendetta",
+        "img": "https://raw.githubusercontent.com/ashwin-mavila/resources/master/imgs/tmdb_10_vendetta.jpeg",
+        "year": 2022,
+        "date": "17-05-2022",
+        "rate": 6.5
+    },
+    {
+        "id": 11,
+        "title": "Ms. Marvel",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_11_msmarvel.jpeg",
+        "year": 2022,
+        "date": "08-06-2022",
+        "rate": 7.2
+    },
+    {
+        "id": 12,
+        "title": "Sea Beast",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_12_seabeast.jpeg",
+        "year": 2022,
+        "date": "24-06-2022",
+        "rate": 7.6
+    },
+    {
+        "id": 13,
+        "title": "The Man from Toronto",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_13_manfrmtoronto.jpeg",
+        "year": 2022,
+        "date": "24-06-2022",
+        "rate": 6.3
+    },
+    {
+        "id": 14,
+        "title": "Hustle",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_14_hustle.jpeg",
+        "year": 2022,
+        "date": "03-06-2022",
+        "rate": 7.9
+    },
+    {
+        "id": 15,
+        "title": "Lucifer",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_15_lucifer.jpeg",
+        "year": 2022,
+        "date": "25-01-2022",
+        "rate": 8.5
+    },
+    {
+        "id": 16,
+        "title": "Thor",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_16_thor.jpeg",
+        "year": 2011,
+        "date": "21-04-2011",
+        "rate": 6.8
+    },
+    {
+        "id": 17,
+        "title": "The Terminal List",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_17_terminallist.jpeg",
+        "year": 2022,
+        "date": "30-06-2022",
+        "rate": 8.5
+    },
+    {
+        "id": 18,
+        "title": "The Princess",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_18_princess.jpeg",
+        "year": 2022,
+        "date": "16-06-2022",
+        "rate": 6.8
+    },
+    {
+        "id": 19,
+        "title": "The Scientist",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_19_thescientist.jpeg",
+        "year": 2020,
+        "date": "21-09-2020",
+        "rate": 6.4
+    },
+    {
+        "id": 20,
+        "title": "Cindrella",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_20_condrella.jpeg",
+        "year": 2015,
+        "date": "12-03-2015",
+        "rate": 6.8
+    },
+    {
+        "id": 21,
+        "title": "Attack on Titan",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_21_attackontitan.jpeg",
+        "year": 2015,
+        "date": "01-08-2015",
+        "rate": 5.9
+    },
+    {
+        "id": 22,
+        "title": "The Expendables",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_22_theexpendables.jpeg",
+        "year": 2010,
+        "date": "03-08-2010",
+        "rate": 6.2
+    },
+    {
+        "id": 23,
+        "title": "Train to Busan",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_23_traintobusan.jpeg",
+        "year": 2016,
+        "date": "20-07-2016",
+        "rate": 7.8
+    },
+    {
+        "id": 24,
+        "title": "Hercules",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_24_hercules.jpeg",
+        "year": 1997,
+        "date": "20-06-1997",
+        "rate": 7.5
+    },
+    {
+        "id": 25,
+        "title": "It Follows",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_25_itfollows.jpeg",
+        "year": 2014,
+        "date": "24-09-2014",
+        "rate": 6.6
+    },
+    {
+        "id": 26,
+        "title": "Wild Card",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_26_wildcard.jpeg",
+        "year": 2015,
+        "date": "14-01-2015",
+        "rate": 5.6
+    },
+    {
+        "id": 27,
+        "title": "The Lion King",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_27_thelionking.jpeg",
+        "year": 1994,
+        "date": "23-06-1994",
+        "rate": 8.3
+    },
+    {
+        "id": 28,
+        "title": "Jurassic World",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_28_jurassicworld.jpeg",
+        "year": 2022,
+        "date": "01-06-2022",
+        "rate": 7.0
+    },
+    {
+        "id": 29,
+        "title": "Lightyear",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_29_lightyear.jpeg",
+        "year": 2022,
+        "date": "15-06-2022",
+        "rate": 7.3
+    },
+    {
+        "id": 30,
+        "title": "The Black Phone",
+        "img": "https://github.com/ashwin-mavila/resources/raw/master/imgs/tmdb_30_theblackphone.jpeg",
+        "year": 2022,
+        "date": "22-06-2022",
+        "rate": 7.9
+    }
+]
